@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../chat-project"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../myNodeServer"
+		}
+	],
+	"settings": {}
+}
